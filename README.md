@@ -70,6 +70,11 @@ Os exemplos utilizados estão disponíveis na pasta `/prompts`.
 O material final está disponível na pasta `/resumo-final`, contendo um resumo estruturado com os principais conceitos, técnicas e aprendizados sobre aprendizagem rápida e eficiente.
 
 ---
+## 🔗 Acesso ao NotebookLM
+Link do material interativo:
+https://notebooklm.google.com/notebook/a083e6e7-861e-4b1c-a47a-de64645e18c6
+
+---
 
 ## 🚀 Conclusão
 
