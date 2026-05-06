@@ -29,6 +29,8 @@ Foram utilizadas fontes confiáveis para embasar o estudo:
 
 Ex: matérias, vídeos, PDFs ou sites confiáveis
 
+Os exemplos utilizados estão disponíveis na pasta /fontes.
+
 ---
 
 ## 🤖 Engenharia de Prompts
