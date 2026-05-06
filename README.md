@@ -39,7 +39,7 @@ Durante o projeto, foram desenvolvidos prompts com o objetivo de extrair o melho
 
 * Explicações simplificadas
 * Resumos estruturados
-* Organização de ideias
+* Resumos em Videos e audios
 * Simulação de raciocínio de especialistas
 
 Os exemplos utilizados estão disponíveis na pasta `/prompts`.
